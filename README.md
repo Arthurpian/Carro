@@ -48,11 +48,11 @@ A marcha à ré é feita por software: o driver de motor (ponte H) inverte a pol
 
 | Comando | Ação |
 |---|---|
-| `F` | Anda para frente |
-| `R` | Anda em marcha à ré |
-| `L` | Vira à esquerda (servo) |
+| `w` | Anda para frente |
+| `s` | Anda em marcha à ré |
+| `a` | Vira à esquerda (servo) |
 | `D` | Vira à direita (servo) |
-| `S` | Para o motor / centraliza direção |
+| `f` | Para o motor / centraliza direção |
 
 ### 1.5 Posição dos componentes (layout)
 
