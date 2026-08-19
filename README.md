@@ -105,8 +105,5 @@ A marcha à ré é feita por software: o driver de motor (ponte H) inverte a pol
 | Bateria (LiPo 2S 1000mAh) | 65 mm | 35 mm | 12 mm | Velcro dentro de compartimento fechado com trava, no centro do chassi |
 | Sensor (ultrassônico HC-SR04) | 45 mm | 20 mm | 15 mm | Suporte impresso na frente, encaixe de pressão + 2 parafusos M2 |
 
-## 4. Croqui do chassi
-
-Ver arquivo `croqui-chassi.svg` (vista superior, com posição dos componentes).
 
 ![Croqui do chassi](croqui-chassi.svg)
