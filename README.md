@@ -103,7 +103,5 @@ A marcha à ré é feita por software: o driver de motor (ponte H) inverte a pol
 | ESP32-WROOM-32 (Devkit V1) | 55 mm | 28 mm | 13 mm | 4 furos M2,5 nos cantos, parafusado em standoffs impressos |
 | Ponte H (TB6612FNG) | 20 mm | 15 mm | 5 mm | Fita dupla-face de alta fixação ou parafuso M2 em suporte próprio |
 | Bateria (LiPo 2S 1000mAh) | 65 mm | 35 mm | 12 mm | Velcro dentro de compartimento fechado com trava, no centro do chassi |
-| Sensor (ultrassônico HC-SR04) | 45 mm | 20 mm | 15 mm | Suporte impresso na frente, encaixe de pressão + 2 parafusos M2 |
-
 
 ![Croqui do chassi](croqui-chassi.svg)
